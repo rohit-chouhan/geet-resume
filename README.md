@@ -11,6 +11,12 @@
 </p>
 
 Generate your own GitHub's resume link to share in anywhere. To geneate visit <strong><a href="https://geet-resume.herokuapp.com/">https://geet-resume.herokuapp.com</a></strong>
+</br>
+<p align="center">
+  <a href="https://geet-resume.herokuapp.com">
+   <img src="https://i.ibb.co/ZgqBx42/geet-resume.png"/>
+  </a>
+</p>
 
 ## How to use
 - Visit <a href="https://geet-resume.herokuapp.com/">https://geet-resume.herokuapp.com</a>
@@ -35,3 +41,5 @@ https://geet-resume.herokuapp.com/users/<github-username>
   </p>
 Geet Resume made with Python Framework <strong>Flask</strong>, for the UI design I used <strong>materializecss</strong></br>
 - Develoepd by <a href="https://rohitchouhan.com">Rohit Chouhan</a>
+<br><br>
+<img src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667"/>
