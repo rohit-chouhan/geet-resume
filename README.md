@@ -1,9 +1,9 @@
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://geet-resume.herokuapp.com">
     <img width="300" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" alt="Geet-Resume">
   </a>
-</p>
+</p>-->
 
 <p align="center">
   Your own <strong>GitHub Resume</strong></br> 
